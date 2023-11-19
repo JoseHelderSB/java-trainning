@@ -5,7 +5,7 @@ public class PrimeiraClasseJava {
 	public static void main(String[] args) {
 		
 		/*sysout*/
-		System.out.println("meu primeiro programa em java heyss");
+		System.out.println("meu primeiro programa em java heyss nova");
 		
 	}
 
